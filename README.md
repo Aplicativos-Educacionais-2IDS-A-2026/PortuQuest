@@ -22,6 +22,7 @@
 ## 🎨 Identidade Visual
 
 ### Logotipo
+<img scr="">
 [cite_start]A marca combina um símbolo de **Lupa com um Livro**, representando a busca pela autonomia no conhecimento e o foco em Literatura[cite: 39, 41]. [cite_start]O nome une "Portu" (Português) e "Quest" (referência a Quests/Quizzes de jogos)[cite: 42].
 
 ### Paleta de Cores
