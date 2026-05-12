@@ -39,7 +39,7 @@
 * **Emily Maiara da Silva** (emily.m.silva19@aluno.senai.br)
 * **Louis Miguel Dias Valentim** (louis.valentim@aluno.senai.br)
 * **Felipe Donizeti Ribeiro** (felipe.d.ribeiro@aluno.senai.br)
-* **Nicoly Gentina Geribola** (isabella.s.garcia6@aluno.senai.br)
+* **Nicoly Gentina Geribola** (nicoly.geribola@aluno.senai.br)
 
 ---
 [cite_start]*Este projeto foi desenvolvido sob a égide do **SENAI**[cite: 1, 5].*
