@@ -22,7 +22,7 @@ Atualmente, escolas enfrentam dificuldades no ensino de áreas abstratas como o 
 ## 🎨 Identidade Visual
 
 ### Logotipo
-<img scr="logoportuquest.jpg">
+![img](logoportuquest.jpg)
 A marca combina um símbolo de **Lupa com um Livro**, representando a busca pela autonomia no conhecimento e o foco em Literatura. O nome une "Portu" (Português) e "Quest" (referência a Quests/Quizzes de jogos)
 
 ### Paleta de Cores
